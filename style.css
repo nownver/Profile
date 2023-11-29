@@ -64,9 +64,9 @@ body {
 
 .selfpic img{
     border-radius: 50%;
-    width: 130px;
+    width: 170px;
     background-color: #faf0e4;
-    margin-left: 20px;
+    margin-left: 70px;
 }
 
 .menu li{
@@ -74,7 +74,7 @@ body {
 }
 
 .sidebar-button {
-    margin-top: 480px;
+    margin-top: 350px;
     margin-left: 40px;
     position: fixed;
 }
